@@ -1,0 +1,26 @@
+.section-chicken,
+.section-beef,
+.section-sushi {
+    background-color: #d7dbdf; /* light gray */
+    min-height: 700px;
+    padding: 20px;
+}
+
+.menu-title {
+  margin-bottom: 4rem;
+  font-weight: bold;
+}
+
+.menu-row {
+  padding-top: 30px;
+}
+
+.menu-col {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
